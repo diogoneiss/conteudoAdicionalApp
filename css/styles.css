@@ -1,6 +1,10 @@
 body {
     font-family: 'Montserrat', sans-serif;
     padding: 5%;
+    left: 1%;
+    right: 1%;
+    text-align: justify;
+
 }
 
 .titulo {
@@ -9,4 +13,5 @@ body {
 
 img {
     max-width: 60%;
+    margin: 5%
 }
